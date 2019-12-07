@@ -1,0 +1,11 @@
+.root{
+	-fx-background-color:black;
+}
+
+Label{
+	-fx-text-fill:linear-gradient(to bottom, red, white);
+}
+
+Button:hover{
+	-fx-background-color:yellow;
+}
